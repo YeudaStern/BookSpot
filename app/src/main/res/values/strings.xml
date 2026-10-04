@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">BookSpot</string>
+    <string name="explore_subtitle">Explore your next adventure</string>
+    <string name="search_hint">Search title, author...</string>
+    <string name="search_button">Search</string>
+    <string name="flipping_pages">Flipping the pages...</string>
+
+    <string name="category_fiction">Fiction</string>
+    <string name="category_science">Science</string>
+    <string name="category_history">History</string>
+    <string name="category_classics">Classics</string>
+    <string name="category_fantasy">Fantasy</string>
+    <string name="category_philosophy">Philosophy</string>
+
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_in_subtitle">Sign in to access your library</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="dont_have_account">Don\'t have an account? Sign Up</string>
+
+    <string name="create_account">Create Account</string>
+    <string name="join_community">Join BookSpot community</string>
+    <string name="user_id_hint">User Code / ID</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="birth_date_hint">Birth Date (DD/MM/YYYY)</string>
+    <string name="register">Register</string>
+    <string name="already_have_account">Already have an account? Sign In</string>
+
+    <string name="user_profile">User Profile</string>
+    <string name="email_read_only">Email (Cannot be changed)</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="log_out">Log Out</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="confirm_delete_msg">Are you sure you want to permanently delete your account?</string>
+    <string name="confirm_delete_title">Delete Account</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_cancel">Cancel</string>
+</resources>

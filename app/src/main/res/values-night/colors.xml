@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#818CF8</color>
+    <color name="primary_dark">#6366F1</color>
+    <color name="accent">#FB7185</color>
+    <color name="bg_screen">#0F172A</color>
+    <color name="card_bg">#1E293B</color>
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="chip_bg">#334155</color>
+    <color name="star_inactive">#475569</color>
+    <color name="star_active">#FACC15</color>
+</resources>

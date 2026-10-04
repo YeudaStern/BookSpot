@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BookSpot</string>
+    <string name="explore_subtitle">גלה את ההרפתקה הבאה שלך</string>
+    <string name="search_hint">חיפוש לפי כותרת, מחבר...</string>
+    <string name="search_button">חפש</string>
+    <string name="flipping_pages">מדפדף בעמודים...</string>
+
+    <string name="category_fiction">סיפורת</string>
+    <string name="category_science">מדע</string>
+    <string name="category_history">היסטוריה</string>
+    <string name="category_classics">קלאסיקות</string>
+    <string name="category_fantasy">פנטזיה</string>
+    <string name="category_philosophy">פילוסופיה</string>
+
+    <string name="welcome_back">ברוך שובך</string>
+    <string name="sign_in_subtitle">התחבר כדי לגשת לספרייה שלך</string>
+    <string name="email_hint">אימייל</string>
+    <string name="password_hint">סיסמה</string>
+    <string name="sign_in">התחבר</string>
+    <string name="dont_have_account">אין לך חשבון? הירשם עכשיו</string>
+
+    <string name="create_account">יצירת חשבון</string>
+    <string name="join_community">הצטרף לקהילת BookSpot</string>
+    <string name="user_id_hint">קוד משתמש / מזהה</string>
+    <string name="full_name_hint">שם מלא</string>
+    <string name="phone_hint">מספר טלפון</string>
+    <string name="birth_date_hint">תאריך לידה (DD/MM/YYYY)</string>
+    <string name="register">הרשמה</string>
+    <string name="already_have_account">כבר יש לך חשבון? התחבר</string>
+
+    <string name="user_profile">פרופיל משתמש</string>
+    <string name="email_read_only">אימייל (לא ניתן לשינוי)</string>
+    <string name="save_changes">שמור שינויים</string>
+    <string name="log_out">התנתק</string>
+    <string name="delete_account">מחק חשבון</string>
+    <string name="confirm_delete_msg">האם אתה בטוח שברצונך למחוק לצמיתות את החשבון?</string>
+    <string name="confirm_delete_title">מחיקת חשבון</string>
+    <string name="btn_delete">מחק</string>
+    <string name="btn_cancel">ביטול</string>
+</resources>
